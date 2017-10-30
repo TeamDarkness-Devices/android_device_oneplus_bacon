@@ -76,8 +76,8 @@ PRODUCT_PACKAGES += \
     camera.bacon \
     libshim_camera \
     libshim_cameraclient \
-    camera.device@1.0-impl \
-    android.hardware.camera.provider@2.4-impl \
+    camera.device@1.0-impl-legacy \
+    android.hardware.camera.provider@2.4-impl-legacy \
     Camera2
 
 # Charger
